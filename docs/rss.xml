@@ -7,8 +7,8 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo Theme MemE</title>
-        <link>https://aydingltp.github.io/dirayettv/</link>
+        <title>Dirayet Tv</title>
+        <link>https://dirayettv.net/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.72.0 https://gohugo.io/</generator>
         
@@ -23,9 +23,9 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 09 Jun 2020 14:52:33 &#43;0300</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2020 15:02:18 &#43;0300</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://aydingltp.github.io/dirayettv/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://dirayettv.net/rss.xml" />
         
         
     </channel>

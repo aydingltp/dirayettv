@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 publishDir = "docs"
-baseURL = "https://aydingltp.github.io/dirayettv/"
-title = "Hugo Theme MemE"
+baseURL = "https://dirayettv.net/"
+title = "Dirayet Tv"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)

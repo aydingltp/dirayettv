@@ -2,15 +2,15 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title type="text">Hugo Theme MemE</title>
+    <title type="text">Dirayet Tv</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-06-09T14:52:33&#43;03:00</updated>
-    <id>https://aydingltp.github.io/dirayettv/</id>
-    <link rel="alternate" type="text/html" href="https://aydingltp.github.io/dirayettv/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://aydingltp.github.io/dirayettv/atom.xml" />
+    <updated>2020-06-09T15:02:18&#43;03:00</updated>
+    <id>https://dirayettv.net/</id>
+    <link rel="alternate" type="text/html" href="https://dirayettv.net/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://dirayettv.net/atom.xml" />
     <author>
             <name>reuixiy</name>
-            <uri>https://aydingltp.github.io/</uri>
+            <uri>https://dirayettv.net/</uri>
             
                 <email>reuixiy@gmail.com</email>
             </author>
